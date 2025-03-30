@@ -15,3 +15,5 @@ This repository contains code for analyzing user feedback from interviews compar
 1. Run the Jupyter notebook `theme_frequency_process copy.ipynb` to process interview data
 2. View generated visualizations and theme frequency tables
 3. Export results to CSV for further analysis
+
+
